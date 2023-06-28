@@ -143,7 +143,17 @@ img {
   font-style: italic;
   color: #ECF0F1;
 }
+#IGPV {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  background-color: magenta;
+}
 
+#IGPV > iframe {
+  max-width: 560px;
+  width: 100%;
+}
 .projects-section {
   text-align: center;
   padding: 10rem 2rem;
